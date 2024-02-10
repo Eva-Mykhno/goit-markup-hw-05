@@ -693,8 +693,8 @@ img {
   fill: #4d5ae5;
 }
 
-.modal-field-check {
-  margin-bottom: 24px;
+.modal-field-textarea {
+  margin-bottom: 16px;
 }
 
 .modal-textarea {
@@ -724,14 +724,15 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
 }
+.modal-field-check {
+  margin-bottom: 24px;
+}
 
 .check-text {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
-  align-items: center;
   position: relative;
   margin-bottom: 24px;
 }
