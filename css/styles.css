@@ -511,6 +511,7 @@ img {
   letter-spacing: 0.02em;
   margin-bottom: 16px;
 }
+
 .subscribe-form {
   display: flex;
   gap: 24px;
@@ -724,6 +725,7 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
 }
+
 .modal-field-check {
   margin-bottom: 24px;
 }
@@ -751,6 +753,7 @@ img {
     border 250ms cubic-bezier(0.4, 0, 0.2, 1),
     fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .privacy-link {
   text-decoration: underline;
   color: #4d5ae5;
